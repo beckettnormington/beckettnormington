@@ -2,10 +2,9 @@
 
 - 🔭 I’m currently working on Chatter, my social network
 - 🌱 I’m currently learning Python
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about... Python
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've got nothing.
+- ⚡ Fun fact: I've got none.
 
 [![Beckett's github stats](https://github-readme-stats.vercel.app/api?username=beckettnormington)](https://github.com/beckettnormington)
 
