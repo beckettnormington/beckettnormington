@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![](https://gitwar.herokuapp.com/badge?username=beckettnormington)
 [![Beckett's github stats](https://github-readme-stats.vercel.app/api?username=beckettnormington)](https://github.com/beckettnormington)
