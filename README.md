@@ -7,5 +7,4 @@
 
 [![Beckett's github stats](https://github-readme-stats.vercel.app/api?username=beckettnormington)](https://github.com/beckettnormington)
 
-
-[Comment] ![](https://gitwar.herokuapp.com/badge?username=beckettnormington&color=brightgreen)
+/* ![](https://gitwar.herokuapp.com/badge?username=beckettnormington&color=brightgreen) */
