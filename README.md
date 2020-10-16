@@ -9,6 +9,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=beckettnormington)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=beckettnormington.beckettnormington)
-
 
