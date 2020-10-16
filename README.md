@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: **I'm boring!**
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/beckettnormington) ![Jokes Card](https://readme-jokes.vercel.app/api)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/beckettnormington)
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/beckettnormington" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="beckettnormington" height="30" width="40" /></a>
