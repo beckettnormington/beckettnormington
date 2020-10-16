@@ -10,7 +10,6 @@
 - 📫 How to reach me **beckett@chatter-social.com**
 
 - ⚡ Fun fact: **I'm boring!**
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/beckettnormington)
 <p align="left">
 <h3 align="left">Connect with me:</h3>
