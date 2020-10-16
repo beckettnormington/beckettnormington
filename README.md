@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beckett!</h1>
 <h3 align="center">A passionate developer from the United States</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beckettnormington" alt="beckettnormington" /></a> </p>
-
 - 🔭 I’m currently working on [Chatter](https://chatter-social.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/beckettnormington](https://github.com/beckettnormington)
@@ -14,7 +12,6 @@
 - ⚡ Fun fact: **I'm boring!**
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/beckettnormington)
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/beckettnormington" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="beckettnormington" height="30" width="40" /></a>
