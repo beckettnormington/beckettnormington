@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beckett!</h1>
-<h3 align="center">A passionate developer from the United States</h3>
+<h3 align="center">A passionate developer from the United States 😎</h3>
 
 - 🔭 I’m currently working on [Chatter](https://chatter-social.com)
 
