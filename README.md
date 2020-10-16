@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **beckett@chatter-social.com**
+- 📫 How to reach me: **beckett@chatter-social.com**
 
 - ⚡ Fun fact: **I'm boring!**
 
