@@ -5,9 +5,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've got none.
 
-![Beckett's github stats](https://github-readme-stats.vercel.app/api?username=beckettnormington&show_icons=true&theme=tokyonight&count_private=true)
+![Beckett's github stats](https://github-readme-stats.vercel.app/api?username=beckettnormington&show_icons=true&theme=tokyonight&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beckettnormington&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beckettnormington&theme=tokyonight)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=beckettnormington)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=beckettnormington.beckettnormington)
 
