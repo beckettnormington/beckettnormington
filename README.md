@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **beckett@chatter-social.com**
 
-- ⚡ Fun fact: **I'm boring and American! The perfect mix of bland and spicy...**
+- ⚡ Fun fact: **I'm boring and American! The perfect mix of bland and glamourous...**
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/beckettnormington)
 
