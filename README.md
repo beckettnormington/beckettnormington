@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **beckett@chatter-social.com**
 
-- ⚡ Fun fact: **Like any sensible person, I think that Google is evil.**
+- ⚡ Daily fact: **I'm bored.**
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/beckettnormington)
 
