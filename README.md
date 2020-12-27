@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beckett!</h1>
 <h3 align="center">A passionate developer from the United States 😎</h3>
 
-- 🔭 I’m currently working on [Chatter](https://chatter-social.com)
+- 🔭 I’m currently working on [Chatter](https://chatter-social.com) and [Creeper](https://github.com/chatter-social/Creeper)
 
 - 👨‍💻 All of my projects are available at [https://github.com/beckettnormington](https://github.com/beckettnormington)
 
