@@ -16,6 +16,10 @@
 <a href="https://dev.to/beckettnormington" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="beckettnormington" height="30" width="40" /></a>
 </p>
 
+# Metrics:
+
 ![Beckett's GitHub metrics](./github-metrics.svg)
+
+# Octocat:
 
 [![Beckett's Octocat](./octocat.png)](https://github.com/beckettnormington)
