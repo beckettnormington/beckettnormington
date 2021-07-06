@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **beckett@chatter-social.com**
 
-- ⚡ Daily fact: **I'm bored.**
+- ⚡ Daily (yearly) fact: **The world is spinning at 1,670 kilometers/hour.**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
